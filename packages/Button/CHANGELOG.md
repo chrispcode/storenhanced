@@ -3,6 +3,20 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.0.0-alpha.0](https://github.com/chrispcode/storenhanced/compare/@storenhanced/button@1.2.0-alpha.0...@storenhanced/button@2.0.0-alpha.0) (2020-05-15)
+
+
+* feat(totally breaking): ([c8c9201](https://github.com/chrispcode/storenhanced/commit/c8c92015cae950079b39255870164c9885507f7a))
+
+
+### BREAKING CHANGES
+
+* so many
+
+
+
+
+
 # [1.2.0-alpha.0](https://github.com/chrispcode/storenhanced/compare/@storenhanced/button@1.1.1...@storenhanced/button@1.2.0-alpha.0) (2020-05-15)
 
 
