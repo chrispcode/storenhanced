@@ -7,7 +7,6 @@ on:
 
 jobs:
   build:
-    name: Build & Lint
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -20,4 +19,4 @@ jobs:
 
       - run: yarn install --frozen-lockfile
       - run: yarn lerna bootstrap
-      - run: yarn lerna version --conventional-commits --conventional-graduate -no-push
+      - run: yarn lerna version --conventional-commits --conventional-graduate -y
