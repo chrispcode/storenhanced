@@ -19,4 +19,9 @@ jobs:
 
       - run: yarn install --frozen-lockfile
       - run: yarn lerna bootstrap
+
+      - run: >-
+          git config --global user.email "kristiyan.serafimov@gmail.com";
+          git config --global user.name "krisbot";
+
       - run: yarn lerna version --conventional-commits --conventional-graduate -y
