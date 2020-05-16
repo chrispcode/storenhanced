@@ -1,1 +1,1 @@
-console.log('Version 2 BREAKING Totally new')
+console.log('Version 2 BREAKING')
