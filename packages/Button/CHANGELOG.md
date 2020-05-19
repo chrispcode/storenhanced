@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.2.0-alpha.0](https://github.com/chrispcode/storenhanced/compare/@storenhanced/button@2.1.0...@storenhanced/button@2.2.0-alpha.0) (2020-05-19)
+
+
+### Features
+
+* **something:** something ([69c3853](https://github.com/chrispcode/storenhanced/commit/69c3853792ea9f22788b9670e5788611c398a42c))
+
+
+
+
+
 # [2.1.0](https://github.com/chrispcode/storenhanced/compare/@storenhanced/button@2.0.0...@storenhanced/button@2.1.0) (2020-05-16)
 
 
